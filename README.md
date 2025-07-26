@@ -78,7 +78,15 @@ You can run the entire pipeline from our notebook:
 ▶ **[Colab Notebook Link](https://colab.research.google.com/drive/1DH9-ul9iyqKr_4XtrwyVhNWiwxnFkZ_W?usp=sharing)**
 
 ---
+---
 
+## 🎥 Project Demo Video
+
+Watch the walkthrough of our complete approach and final model:
+
+▶ [Demo Video Link (Google Drive)](https://drive.google.com/drive/folders/15KCW59jSZ4fBU5T9Ac32feJUR3bQE6qP?usp=drive_link)
+
+---
 ## 🖼️ Final Presentation
 
 The final results and project explanation are also included in this repo:
